@@ -1,5 +1,5 @@
 # ML_Obesity
-Individual Project for ML1
+Individual Project for ML1 using classic machine learning models
 
 Executive Summary
 
